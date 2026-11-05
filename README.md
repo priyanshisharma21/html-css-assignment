@@ -39,9 +39,3 @@ LabN/
 └── <task files>.html   one file per task, named as in the assignment
 ```
 
-Labs 1 and 2 are Git labs, so they have `terminal-output.txt` instead of extra task pages.
-
-## Before you submit
-
-Replace `Priyanshi Sharma` and `BCS2025582` with your own details in all files
-(in VS Code: Ctrl+Shift+H, search in the whole folder), and replace the screenshots with your own.
